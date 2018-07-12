@@ -1,4 +1,5 @@
 USNEKZ Debian 8.10 x64 SNAT AutoScript v1
+File Name: usnekxautoscript
 wget https://git.io/fNLcs -O usnekxautoscript && chmod +x usnekxautoscript && ./usnekxautoscript
 
 
