@@ -4,7 +4,7 @@ wget https://git.io/fNLcs -O usnekxautoscript && chmod +x usnekxautoscript && ./
 
 
 
-FINAL SNAT/LBC USNEKZ AUTOSCRIPT: Username: TEAMDISCORD Password: Q4GPQ8LC1H0423BJ
+FINAL SNAT/LBC USNEKZ AUTOSCRIPT:
 
 USNEKZ DEBIAN 8.1 x64 LBC/SNAT AutoScript FINAL: DebianAutoscript
 
